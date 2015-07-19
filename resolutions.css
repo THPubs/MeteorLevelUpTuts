@@ -72,3 +72,6 @@ li.checked {
 li.checked .text {
     text-decoration: line-through;
 }
+button {
+    cursor: pointer;
+}
