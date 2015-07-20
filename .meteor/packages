@@ -5,10 +5,10 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
 mquandalle:stylus
 accounts-password
 accounts-ui
 accounts-twitter
 accounts-facebook
+accounts-google
+accounts-github
